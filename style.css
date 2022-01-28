@@ -1,0 +1,38 @@
+body{
+	background-color: honeydew;
+}
+.Image{
+	float: right;
+	width: 150px;
+	height: 150px;
+}
+.right{
+	float: right;
+}
+#CV{
+	width: 90%;
+	max-width: 800px;
+	background: #f3f3f3;
+	margin: 30px auto;
+}
+.Top{
+	margin-bottom: 10px;
+	padding: 25px 35px 200px;
+	border-bottom: 2px solid lightblue;
+	background: #ededed;
+}
+h1{
+	text-align: center;
+}
+.About{
+	margin-bottom: 10px;
+	border-bottom: 2px solid lightblue;
+}
+.Education{
+	margin-bottom: 10px;
+	border-bottom: 2px solid lightblue;
+}
+.Skills{
+	margin-bottom: 10px;
+	border-bottom: 2px solid lightblue;
+}
